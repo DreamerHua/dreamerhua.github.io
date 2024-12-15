@@ -32,6 +32,18 @@ Transactions on Green Communications and Networking 2021*. [[link]](https://ieee
 * Probability Theory and Mathematical Statistics, Fall 2019
 
 
+## Selected Honors & Awards
+** As a Graduate Student **
+* Excellent Graduate Student (Top 5%), 2021
+* National Scholarship for Graduate Students (Top 2%), 2020
+* Outstanding Student (Top 5%), 2019
+ 
+** As an Undergraduate Student **
+* Excellent Undergraduate (Top 2%), 2018
+* Special Scholarship (Top 5%), 2017
+* First Level Scholarship (Top 10%), 2015, 2015
+
+
 ## Interesting Projects
 *To be updated*
 
