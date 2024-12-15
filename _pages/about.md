@@ -41,7 +41,7 @@ Transactions on Green Communications and Networking 2021*. [[link]](https://ieee
 **As an Undergraduate Student**
 * Excellent Undergraduate (优秀毕业生, Top 2%), 2018
 * Special Scholarship (特等奖学金, Top 5%), 2017
-* First Level Scholarship (一等奖学金, Top 10%), 2015, 2015
+* First Level Scholarship (一等奖学金, Top 10%), 2015, 2016
 
 
 ## Miscellaneous
