@@ -34,14 +34,14 @@ Transactions on Green Communications and Networking 2021*. [[link]](https://ieee
 
 ## Selected Honors & Awards
 **As a Graduate Student**
-* Excellent Graduate Student (Top 5%), 2021
-* National Scholarship for Graduate Students (Top 2%), 2020
-* Outstanding Student (Top 5%), 2019
+* Excellent Graduate Student (优秀毕业生, Top 5%), 2021
+* National Scholarship for Graduate Students (研究生国家奖学金, Top 2%), 2020
+* Outstanding Student (上科大三好学生, Top 5%), 2019
  
 **As an Undergraduate Student**
-* Excellent Undergraduate (Top 2%), 2018
-* Special Scholarship (Top 5%), 2017
-* First Level Scholarship (Top 10%), 2015, 2015
+* Excellent Undergraduate (优秀毕业生, Top 2%), 2018
+* Special Scholarship (特等奖学金, Top 5%), 2017
+* First Level Scholarship (一等奖学金, Top 10%), 2015, 2015
 
 
 ## Miscellaneous
