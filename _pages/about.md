@@ -44,8 +44,8 @@ Transactions on Green Communications and Networking 2021*. [[link]](https://ieee
 * First Level Scholarship (Top 10%), 2015, 2015
 
 
-## Interesting Projects
-*To be updated*
+## Miscellaneous
+I'm excited to share that I'm currently involved in several intriguing projects. One that I'm particularly passionate about is *Life Digitalization*, which seeks to transform all the information I encounter daily into a digital format. Stay tuned for updates right here on my homepage!
 
 
 
