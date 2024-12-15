@@ -18,9 +18,7 @@ I worked in Huawei Technologies (based in Shanghai-->Beijing) for 3 years. Previ
 ### Journal Publications
 1. Sheng Hua, Yong Zhou, Kai Yang, Yuanming Shi, and Kunlun Wang. 
 "**Reconfigurable intelligent surface for green edge inference**." *IEEE 
-Transactions on Green Communications and Networking 2021*. [[link]]
-(https://ieeexplore.ieee.org/abstract/document/9352968) [[pdf]]
-(http://dreamerhua.github.io/files/TGCN_paper.pdf)
+Transactions on Green Communications and Networking 2021*. [[link]](https://ieeexplore.ieee.org/abstract/document/9352968) [[pdf]](http://dreamerhua.github.io/files/TGCN_paper.pdf)
 2. Xiangyu Yang, Sheng Hua, Yuanming Shi, Hao Wang, Jun Zhang, and Khaled B. Letaief. "**Sparse optimization for green edge AI inference**." *Journal of Communications and Information Networks 2020*. [[link]](https://ieeexplore.ieee.org/document/9055106) [[pdf]](http://dreamerhua.github.io/files/JCIN_paper.pdf)
 
 ### Peer-Reviewed Conference Proceedings
