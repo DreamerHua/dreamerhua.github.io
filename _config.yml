@@ -350,4 +350,4 @@ compress_html:
     envs: development
 
 # 网站图标设置
-favicon                   : "/images/favicon_customized.ico"
+favicon                   : "/assets/images/favicon_customized.ico"
