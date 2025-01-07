@@ -26,6 +26,9 @@ Transactions on Green Communications and Networking 2021*. [[link]](https://ieee
 2. Sheng Hua, Xiangyu Yang, Kai Yang, Gao Yin, Yuanming Shi, and Hao Wang. "**Deep learning tasks processing in fog-RAN**." In proceedings of *2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)*. [[link]](https://ieeexplore.ieee.org/document/8891505/) [[slides]](https://dreamerhua.github.io/files/[VTC19]Fog-RAN%20slides.pdf)
 3. Sheng Hua, and Yuanming Shi. "**Reconfigurable intelligent surface for green edge inference in machine learning**." In proceedings of *2019 IEEE GlobeCom Workshops (GC Wkshps)*. [[link]](https://ieeexplore.ieee.org/document/9024398/) [[slides]](https://dreamerhua.github.io/files/[GlobeCom19]RIS%20for%20Green%20Edge%20Inference%20slides.pdf)
 
+### Work in Progress
+1. "**When AI Takes the Wheel: The Effectiveness of AI vs. Human-generated Content in Tourism Marketing**", with Chengxi Li, Qi Cao. Manuscript writing, to be submitted to *Journal of Vacation Marketing: Special Issue on Social Media and Tourism Marketing*. [link](https://journals.sagepub.com/page/jvm/call-for-papers)
+
 
 ## Teaching Experience
 **As a Teaching Assistant for Undergraduate Course, ShanghaiTech University**
