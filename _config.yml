@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sheng Hua(华盛)"
+title                    : "Sheng Hua"
 title_separator          : "-"
 name                     : &name "Sheng Hua"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "DreamerHua/dreamerhua.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sheng Hua(华盛)"
+  name             : "Sheng Hua（华盛）"
   pronouns         : # example: "she/her"  
   bio              : "Now An Independent Researcher"
   location         : "Beijing"
