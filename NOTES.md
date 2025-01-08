@@ -5,6 +5,13 @@
 1. 更新作品信息：修改`_pages/about.md`中的**Research**部分
 
 
+## 版本更新记录
+
+| 版本名称 | 主要更新点 | Tag名称 |
+|---------|------------|---------|
+| v1.0.0  | 1. 收敛所有页面内容至About me页面，避免维护多个Tab<br> 2. 按照Research, Teaching Experience, Selected Honors & Awards, Miscellaneous分区维护内容<br> 3.Research按照Journal Publications, Peer-Reviewed Conference Proceedings, Work in Progress分别维护 | [Release_version1.0](https://github.com/dreamerhua/dreamerhua.github.io/releases/tag/Release_version1.0)
+
+
 ## 常用修改位置
 
 ### 1. 基础信息修改
