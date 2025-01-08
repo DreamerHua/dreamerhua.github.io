@@ -18,8 +18,8 @@ I worked in Huawei Technologies (based in Shanghai-->Beijing) for 3 years. Previ
 ### Journal Publications
 1. Sheng Hua, Yong Zhou, Kai Yang, Yuanming Shi, and Kunlun Wang. 
 "**Reconfigurable intelligent surface for green edge inference**." *IEEE 
-Transactions on Green Communications and Networking 2021*. ([JCR Q1](https://wos-journal.info/journalid/15362), Impact Factor=5.3) [[Link]](https://ieeexplore.ieee.org/abstract/document/9352968) [[Pdf](http://dreamerhua.github.io/files/TGCN_paper.pdf)
-2. Xiangyu Yang, Sheng Hua, Yuanming Shi, Hao Wang, Jun Zhang, and Khaled B. Letaief. "**Sparse optimization for green edge AI inference**." *Journal of Communications and Information Networks 2020*. ([SJR Q1](https://www.scimagojr.com/journalsearch.php?q=21101056433&tip=sid&clean=0), Impact Factor=5.2) [[Link]](https://ieeexplore.ieee.org/document/9055106) [[Pdf](http://dreamerhua.github.io/files/JCIN_paper.pdf)
+Transactions on Green Communications and Networking 2021*. ([JCR Q1](https://wos-journal.info/journalid/15362), Impact Factor=5.3) [[Link]](https://ieeexplore.ieee.org/abstract/document/9352968) [[Pdf]](http://dreamerhua.github.io/files/TGCN_paper.pdf)
+2. Xiangyu Yang, Sheng Hua, Yuanming Shi, Hao Wang, Jun Zhang, and Khaled B. Letaief. "**Sparse optimization for green edge AI inference**." *Journal of Communications and Information Networks 2020*. ([SJR Q1](https://www.scimagojr.com/journalsearch.php?q=21101056433&tip=sid&clean=0), Impact Factor=5.2) [[Link]](https://ieeexplore.ieee.org/document/9055106) [[Pdf]](http://dreamerhua.github.io/files/JCIN_paper.pdf)
 
 ### Peer-Reviewed Conference Proceedings
 1. Sheng Hua, Kai Yang, and Yuanming Shi. "**On-device federated learning via second-order optimization with over-the-air computation**." In proceedings of *2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)*. [[Link]](https://ieeexplore.ieee.org/document/8891310) [[Slides]](https://dreamerhua.github.io/files/[VTC19]On-device%20Fed%20Learning%20slides.pdf)
