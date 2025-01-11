@@ -8,6 +8,7 @@ redirect_from:         # URL 重定向设置
   - /about.html      # 如果访问 网站域名/about.html，会重定向到此页面
 ---
 
+## <span id="about">About Me</span>
 I worked in Huawei Technologies (based in Shanghai-->Beijing) for 3 years. Previously, I graduated from School of Information Science Technology, ShanghaiTech University (上海科技大学信息学院) with a master’s degree in *2021*, advised by [Yuanming Shi (石远明)](https://faculty.sist.shanghaitech.edu.cn/faculty/shiym/home.html) and [Yong Zhou(周勇)](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/); and from the School of Computer Science and Technology, Xidian University (西安电子科技大学计算机学院) with a bachelor’s degree in *2018*, advised by [Xiaoke Ma (马小科)](https://web.xidian.edu.cn/xkma/).
 
 
