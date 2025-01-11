@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<!-- 添加导航按钮 -->
+<div class="section-nav">
+  <a href="#research" class="btn btn--primary">Research</a>
+  <a href="#teaching" class="btn btn--primary">Teaching</a>
+  <a href="#honors" class="btn btn--primary">Honors & Awards</a>
+  <a href="#miscellaneous" class="btn btn--primary">Miscellaneous</a>
+</div>
+
+<!-- 原有的页面内容 -->
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="page__inner-wrap">
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+    </div>
+  </article>
+</div> 

@@ -39,3 +39,27 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.section-nav {
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 30px;
+  background: #f8f9fa;
+  
+  .btn {
+    margin: 5px;
+    padding: 8px 15px;
+    display: inline-block;
+    
+    @media screen and (max-width: 768px) {
+      display: block;
+      margin: 10px auto;
+      width: 80%;
+    }
+  }
+}
+
+// 添加平滑滚动效果
+html {
+  scroll-behavior: smooth;
+}

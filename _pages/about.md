@@ -14,7 +14,7 @@ I worked in Huawei Technologies (based in Shanghai-->Beijing) for 3 years. Previ
 [Download CV.pdf](http://dreamerhua.github.io/files/CV_huasheng.pdf)
 
 
-## Research 
+## <span id="research">Research</span>
 ### Journal Publications
 1. <u>Sheng Hua</u>, Yong Zhou, Kai Yang, Yuanming Shi, and Kunlun Wang. 
 "**Reconfigurable intelligent surface for green edge inference**." *IEEE 
@@ -30,12 +30,12 @@ Transactions on Green Communications and Networking 2021*. ([JCR Q1](https://wos
 1. "**When AI Takes the Wheel: The Effectiveness of AI vs. Human-generated Content in Tourism Marketing**", with Chengxi Li, Qi Cao. Manuscript writing, to be submitted to *Journal of Vacation Marketing: Special Issue on Social Media and Tourism Marketing*. [[Link]](https://journals.sagepub.com/page/jvm/call-for-papers) [[Abstract]](http://dreamerhua.github.io/files/JVM_Abstract.pdf)
 
 
-## Teaching Experience
+## <span id="teaching">Teaching Experience</span>
 **As a Teaching Assistant for Undergraduate Course, ShanghaiTech University**
 * Probability Theory and Mathematical Statistics, Fall 2019
 
 
-## Selected Honors & Awards
+## <span id="honors">Selected Honors & Awards</span>
 **As a Graduate Student**
 * Excellent Graduate Student (优秀毕业生, Top 5%), 2021
 * National Scholarship for Graduate Students (研究生国家奖学金, Top 2%), 2020
@@ -47,7 +47,7 @@ Transactions on Green Communications and Networking 2021*. ([JCR Q1](https://wos
 * First Level Scholarship (一等奖学金, Top 10%), 2015, 2016
 
 
-## Miscellaneous
+## <span id="miscellaneous">Miscellaneous</span>
 I'm excited to share that I'm currently involved in several intriguing projects. One that I'm particularly passionate about is *Life Digitalization*, which seeks to transform all the information I encounter daily into a digital format. Stay tuned for updates right here on my homepage!
 
 
