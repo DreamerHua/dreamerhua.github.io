@@ -54,17 +54,17 @@
       font-weight: normal;             // 字体粗细
       
       // 按钮默认状态的颜色设置
-      color: #000;                    // 按钮文字为白色
-    //   background-color: $primary-color;      // 使用主题主色作为背景色
-    //   border: $primary-color;         // 边框颜色与背景色相同
+      color: #fff;                    // 按钮文字为白色
+      background-color: rgba($primary-color, 0.85);  // 主题主色带15%透明度
+      border: rgba($primary-color, 0.85);           // 边框颜色保持一致
       
       // 增加默认状态下的对比度
       text-decoration: none;          // 确保没有下划线
       font-weight: 500;               // 稍微加粗一点
       
-    //   border-radius: 4px;              // 圆角效果
-    //   transition: all 0.2s ease-in-out; // 所有属性变化时的过渡动画
-    //   box-shadow: 0 1px 3px rgba(0,0,0,0.1);  // 轻微阴影，提供立体感
+      border-radius: 4px;              // 圆角效果
+      transition: all 0.2s ease-in-out; // 所有属性变化时的过渡动画
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);  // 轻微阴影，提供立体感
       
       // 鼠标悬停时的样式
       &:hover {
