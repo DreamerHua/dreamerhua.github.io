@@ -55,8 +55,8 @@
       
       // 按钮默认状态的颜色设置
       color: #fff;                    // 按钮文字为白色
-      background-color: rgba($primary-color, 0.4);  // 主题主色带60%透明度，1表示完全不透明，0表示完全透明
-      border: rgba($primary-color, 0.4);           // 边框颜色保持一致
+      background-color: rgba($primary-color, 0.2);  // 主题主色带80%透明度，1表示完全不透明，0表示完全透明
+      border: rgba($primary-color, 0.2);           // 边框颜色保持一致
       
       // 增加默认状态下的对比度
       text-decoration: none;          // 确保没有下划线
