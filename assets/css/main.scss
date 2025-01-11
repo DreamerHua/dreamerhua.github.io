@@ -41,29 +41,37 @@
 @import "print";
 
 .section-nav {
-    text-align: center;
-    padding: 1.5rem 0;
-    margin: 1rem 0 2rem 0;
+    text-align: center;                // 导航按钮居中对齐
+    padding: 1.5rem 0;                 // 上下内边距
+    margin: 1rem 0 2rem 0;            // 上下外边距，确保与其他内容有适当间隔
     
     .btn {
-      display: inline-block;
-      margin: 0.3rem;
-      padding: 0.6rem 1.2rem;
-      font-family: $sans-serif-narrow;
-      font-size: $type-size-5;
-      font-weight: normal;
-      color: $text-color;
-      background-color: #f8f9fa;
-      border: 1px solid $border-color;
-      border-radius: 4px;
-      transition: all 0.2s ease-in-out;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      display: inline-block;           // 按钮水平排列
+      margin: 0.3rem;                  // 按钮之间的间距
+      padding: 0.6rem 1.2rem;          // 按钮内部填充
+      font-family: $sans-serif-narrow; // 使用主题定义的无衬线字体
+      font-size: $type-size-5;         // 使用主题定义的字号大小
+      font-weight: normal;             // 字体粗细
       
+      // 按钮默认状态的颜色设置
+      color: #333;                    // 使用明确的深色文字，而不是变量
+      background-color: #f8f9fa;      // 保持浅灰色背景
+      border: 1px solid #ddd;         // 使用明确的边框颜色
+      
+      // 增加默认状态下的对比度
+      text-decoration: none;          // 确保没有下划线
+      font-weight: 500;               // 稍微加粗一点
+      
+      border-radius: 4px;              // 圆角效果
+      transition: all 0.2s ease-in-out; // 所有属性变化时的过渡动画
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);  // 轻微阴影，提供立体感
+      
+      // 鼠标悬停时的样式
       &:hover {
-        color: #fff;
-        background-color: $primary-color;
-        border-color: $primary-color;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        color: #fff;                   // 文字变为白色
+        background-color: $primary-color;    // 使用主题的主要颜色（通常是蓝色或品牌色）
+        border-color: $primary-color;        // 边框颜色也变为主题色
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);  // 加深阴影效果
       } 
     }
 }
