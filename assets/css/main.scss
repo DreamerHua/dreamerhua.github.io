@@ -42,33 +42,19 @@
 
 .section-nav {
   text-align: center;
-  padding: 1.5rem 0;
-  margin: 1rem 0 2rem 0;
+  padding: 20px 0;
+  margin-bottom: 30px;
+  background: #f8f9fa;
   
   .btn {
+    margin: 5px;
+    padding: 8px 15px;
     display: inline-block;
-    margin: 0.3rem;
-    padding: 0.6rem 1.2rem;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-5;
-    font-weight: normal;
-    color: $gray-dark;
-    text-decoration: none;
-    background-color: transparent;
-    border: 1px solid $gray;
-    border-radius: 4px;
-    transition: all 0.2s ease-in-out;
-    
-    &:hover {
-      color: #fff;
-      background-color: $primary-color;
-      border-color: $primary-color;
-    }
     
     @media screen and (max-width: 768px) {
-      display: inline-block;
-      margin: 0.3rem;
-      min-width: 120px;
+      display: block;
+      margin: 10px auto;
+      width: 80%;
     }
   }
 }
