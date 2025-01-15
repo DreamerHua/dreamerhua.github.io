@@ -29,7 +29,7 @@ Transactions on Green Communications and Networking 2021*. ([JCR Q1](https://wos
 3. <u>Sheng Hua</u>, and Yuanming Shi. "**Reconfigurable intelligent surface for green edge inference in machine learning**." In proceedings of *2019 IEEE GlobeCom Workshops (GC Wkshps)*. [[Link]](https://ieeexplore.ieee.org/document/9024398/) [[Slides]](https://dreamerhua.github.io/files/[GlobeCom19]RIS%20for%20Green%20Edge%20Inference%20slides.pdf)
 
 ### Work in Progress
-1. "**When AI Takes the Wheel: The Effectiveness of AI vs. Human-generated Content in Tourism Marketing**", with Chengxi Li, Qi Cao, [Willie Tao](https://business.okstate.edu/directory/799415.html). Manuscript writing, to be submitted to *Journal of Vacation Marketing: Special Issue on Social Media and Tourism Marketing*. [[Link]](https://journals.sagepub.com/page/jvm/call-for-papers)
+1. "**When AI Takes the Wheel: The Effectiveness of AI vs. Human-generated Content in Tourism Marketing**", with Chengxi Li, Qi Cao, [Willie Tao](https://business.okstate.edu/directory/799415.html). Manuscript writing, invited to submit to *Journal of Vacation Marketing: Special Issue on Social Media and Tourism Marketing*. [[Link]](https://journals.sagepub.com/page/jvm/call-for-papers)
 
 
 ## <span id="teaching">Teaching Experience</span>
