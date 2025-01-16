@@ -23,4 +23,33 @@ layout: default
       </section>
     </div>
   </article>
-</div> 
+</div>
+
+<!-- 添加快速返回顶部按钮 -->
+<button id="back-to-top" class="back-to-top" title="Back to Top">
+  <i class="fas fa-arrow-up"></i>
+  <span class="back-to-top-text">Back to Top</span>
+</button>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const backToTop = document.getElementById('back-to-top');
+    
+    // 监听滚动事件
+    window.addEventListener('scroll', function() {
+        if (window.pageYOffset > 300) { // 滚动超过300px显示按钮
+            backToTop.classList.add('show');
+        } else {
+            backToTop.classList.remove('show');
+        }
+    });
+    
+    // 点击返回顶部
+    backToTop.addEventListener('click', function() {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+});
+</script> 

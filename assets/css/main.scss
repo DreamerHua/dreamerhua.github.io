@@ -81,3 +81,52 @@
 html {
   scroll-behavior: smooth;
 }
+
+// 返回顶部按钮样式
+.back-to-top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgba($primary-color, 0.6);
+    border: none;
+    color: white;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    &:hover {
+        background-color: $primary-color;
+        
+        .back-to-top-text {
+            opacity: 1;
+            visibility: visible;
+            right: 50px;
+        }
+    }
+    
+    &.show {
+        opacity: 1;
+        visibility: visible;
+    }
+    
+    .back-to-top-text {
+        position: absolute;
+        right: 30px;
+        background: $primary-color;
+        padding: 5px 10px;
+        border-radius: 4px;
+        font-size: 14px;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.3s ease;
+        white-space: nowrap;
+    }
+}
