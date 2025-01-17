@@ -35,9 +35,14 @@ layout: default
 document.addEventListener('DOMContentLoaded', function() {
     const backToTop = document.getElementById('back-to-top');
     
+    // 获取视窗高度
+    const viewportHeight = window.innerHeight;
+    
     // 监听滚动事件
     window.addEventListener('scroll', function() {
-        if (window.pageYOffset > 300) { // 滚动超过300px显示按钮
+        // 改为使用视窗高度作为参考
+        // 当滚动超过一个屏幕高度的 50% 时显示按钮
+        if (window.pageYOffset > viewportHeight * 0.5) {
             backToTop.classList.add('show');
         } else {
             backToTop.classList.remove('show');
