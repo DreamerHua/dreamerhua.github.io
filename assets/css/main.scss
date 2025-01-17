@@ -130,3 +130,41 @@ html {
         white-space: nowrap;
     }
 }
+
+// 名人名言样式
+/* 名人名言容器样式
+ * 这是一个包含引用内容的容器组件
+ * 使用嵌套的SCSS语法结构来组织样式
+ */
+.quote-container {
+    text-align: center;          // 文字居中对齐
+    padding: 20px 0;            // 上下内边距20px,左右无内边距
+    margin-bottom: 20px;        // 底部外边距20px
+    background-color: rgba($primary-color, 0.05);  // 使用主题色作为背景,透明度5%
+    border-radius: 4px;         // 圆角边框4px
+    
+    /* 引用块样式
+     * 嵌套在container内的引用文本样式
+     */
+    .quote {
+        margin: 0;              // 清除默认外边距
+        padding: 0 20px;        // 左右内边距20px
+        font-style: italic;     // 斜体字体
+        color: $text-color;     // 使用预定义的文本颜色变量
+        
+        /* 引用的段落文本样式 */
+        p {
+            margin: 0;          // 清除段落默认外边距
+            font-size: 1.1em;   // 字体大小为父元素的1.1倍
+            line-height: 1.6;   // 行高为字体大小的1.6倍
+        }
+        
+        /* 引用的作者信息样式 */
+        footer {
+            margin-top: 10px;   // 顶部外边距10px
+            font-size: 0.9em;   // 字体大小为父元素的0.9倍
+            color: $text-color; // 使用预定义的文本颜色
+            opacity: 0.8;       // 80%不透明度,使颜色略微淡化
+        }
+    }
+}
