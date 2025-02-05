@@ -62,4 +62,6 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // 为所有指向当前域名的链接添加 target="_blank" 和 rel="noopener noreferrer"
+  $('a[href^="http://"], a[href^="https://"]').attr({'target': '_blank', 'rel': 'noopener noreferrer'});
 });
