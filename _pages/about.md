@@ -9,7 +9,9 @@ redirect_from:         # URL 重定向设置
 ---
 
 ## <span id="about">About Me</span>
-I worked in Huawei Technologies (based in Shanghai-->Beijing) for 3 years. Previously, I graduated from School of Information Science Technology, ShanghaiTech University (上海科技大学信息学院) with a master’s degree in *2021*, advised by [Yuanming Shi (石远明)](https://faculty.sist.shanghaitech.edu.cn/faculty/shiym/home.html) and [Yong Zhou(周勇)](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/); and from the School of Computer Science and Technology, Xidian University (西安电子科技大学计算机学院) with a bachelor’s degree in *2018*, advised by [Xiaoke Ma (马小科)](https://web.xidian.edu.cn/xkma/).
+I am currently fascinated by how technologies in the AI era can fully unleash their potential, especially in terms of corporate operational value and human-AI collaboration. At present, I am actively seeking PhD opportunities in the fields of OM/MIS at business school. If you are interested in my experiences or have suitable opportunities, please feel free to reach out to me.
+
+Previously, I worked in an Internet giant for 3 years. I graduated from School of Information Science Technology, ShanghaiTech University (上海科技大学信息学院) with a master’s degree in *2021*, advised by [Yuanming Shi (石远明)](https://faculty.sist.shanghaitech.edu.cn/faculty/shiym/home.html) and [Yong Zhou(周勇)](https://faculty.sist.shanghaitech.edu.cn/faculty/zhouyong/); and from the School of Computer Science and Technology, Xidian University (西安电子科技大学计算机学院) with a bachelor’s degree in *2018*, advised by [Xiaoke Ma (马小科)](https://web.xidian.edu.cn/xkma/).
 
 
 
